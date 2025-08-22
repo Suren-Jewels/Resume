@@ -6,4 +6,4 @@ This repository contains my ATS-optimized resume highlighting achievements acros
 
 For full portfolio and project documentation, visit:  
 🌐 [GitHub Pages Portfolio](https://suren-jewels.github.io)  
-📂 [Projects Index](https://github.com/Suren-Jewels/Projects)
+🗂️ [Projects Index](https://github.com/Suren-Jewels/Projects)
