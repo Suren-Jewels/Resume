@@ -2,7 +2,7 @@
 
 This repository contains my ATS-optimized resume highlighting achievements across cloud infrastructure, secure systems, automation, and federal support.
 
-📖 [View Resume PDF](./SurenJewels_Resume.pdf) ➜ Updated on Jan 9, 2025
+📖 [View Resume PDF](./SurenJewels_Resume.pdf) ➜ Updated on Jan 12, 2025
 
 For full portfolio and project documentation, visit:  
 🌐 [GitHub Pages Portfolio](https://suren-jewels.github.io)  
